@@ -1,6 +1,7 @@
 # GraphRAG for Biology: Get Precise Answers to Complex Biological Questions
 
-GraphRAG-Biology is an innovative framework that leverages knowledge graphs and relation extraction techniques to unlock insights from narrative private data in biology. By integrating Graph Neural Networks (GNNs) and Large Language Models (LLMs), this project enables the discovery of complex biological relationships, enhancing our understanding of biological systems.
+GraphRAG-Biology a specialized implementation of Microsoft's GraphRAG framework, tailored for processing and analyzing biological research papers. By integrating Graph Neural Networks (GNNs) and Large Language Models (LLMs), this project leverages the structured, hierarchical approach to Retrieval Augmented Generation (RAG) provided by GraphRAG to enhance the analysis of complex biological information.
+
 
 ## Technical Details
 

@@ -2,6 +2,8 @@
 
 GraphRAG-Biology a specialized implementation of Microsoft's GraphRAG framework, tailored for processing and analyzing biological research papers. By integrating Graph Neural Networks (GNNs) and Large Language Models (LLMs), this project leverages the structured, hierarchical approach to Retrieval Augmented Generation (RAG) provided by GraphRAG to enhance the analysis of complex biological information.
 
+Source code for this implementation found here: https://github.com/wassmi/graphrag-biology 
+
 
 ## Technical Details
 

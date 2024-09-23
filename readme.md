@@ -1,12 +1,12 @@
-# GraphRAG-Immuno
+# GraphRAG-Biology
 
 ## Overview
 
-GraphRAG-Immuno is a specialized implementation of Microsoft's GraphRAG framework, tailored for processing and analyzing biological research papers. This project leverages the structured, hierarchical approach to Retrieval Augmented Generation (RAG) provided by GraphRAG to enhance the analysis of complex biological information.
+GraphRAG-Biology is a specialized implementation of Microsoft's GraphRAG framework, tailored for processing and analyzing biological research papers. This project leverages the structured, hierarchical approach to Retrieval Augmented Generation (RAG) provided by GraphRAG to enhance the analysis of complex biological information.
 
 ## Setup and Usage
 
-Follow these steps to set up and use GraphRAG-Immuno:
+Follow these steps to set up and use GraphRAG-Biology:
 
 1. Create and activate a virtual environment:
    ```bash

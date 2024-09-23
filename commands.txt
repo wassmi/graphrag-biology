@@ -1,0 +1,89 @@
+First create venv 
+python -m venv venv
+
+activate the venv
+source venv/bin/activate
+
+---
+Then create input directory
+mkdir ./input
+
+in the input directory add the textfile your want to perfom graphrag on
+
+
+---
+Run the following commands:
+
+#initialize the graphrag project
+python -m graphrag.index --init --root .   
+
+#to index the document
+python -m graphrag.index --root .  
+
+--- 
+for LLM can use groq api with llav-v1.5-7b-preview model
+https://www.youtube.com/watch?v=y8EjUJXO7Mc see this for local 
+----
+now lets ask questions to the graphrag
+
+
+usage: python -m graphrag.query [-h] [--config CONFIG] [--data DATA] [--root ROOT] --method {local,global} [--community_level COMMUNITY_LEVEL]
+                                [--response_type RESPONSE_TYPE] [--streaming]
+                                query
+
+python -m graphrag.query --root . --method local "What is the relationship between AA and minoxidil?" 
+
+###########
+reponse from this query using local vs global
+###########
+
+LOCAL 
+
+INFO: Vector Store Args: {}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-4-turbo-preview', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'cognitive_services_endpoint': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'cognitive_services_endpoint': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+### Understanding the Relationship between Alopecia Areata (AA) and Minoxidil
+
+Alopecia Areata (AA) is an autoimmune condition characterized by the sudden loss of hair on the scalp and sometimes other parts of the body. It affects individuals across different age groups and genders, leading to various psychological impacts due to its unpredictable nature. The search for effective treatments has been ongoing, with Minoxidil emerging as a significant player in the therapeutic landscape.
+
+#### The Role of Minoxidil in Treating AA
+
+Minoxidil, particularly in its topical form, has been a cornerstone in the treatment of AA for several decades. Its mechanism of action involves stimulating hair follicle epithelial cell proliferation and differentiation, improving microvascular circulation around hair follicles, activating potassium channels on peripheral arterial smooth muscles, and increasing vascular endothelial growth factor. These actions collectively contribute to its effectiveness in stimulating hair growth and treating hair loss conditions [Data: Entities (39)].
+
+#### Clinical Evidence Supporting Minoxidil's Efficacy
+
+The relationship between AA and Minoxidil is underscored by its inclusion in various studies and clinical trials aimed at addressing hair loss. Topical Minoxidil is recognized for its application in treating AA, applied directly to the affected area. Its effectiveness in managing this condition has been the subject of studies, particularly when used in combination with compound glycyrrhizin, highlighting the potential benefits of Topical Minoxidil in treating AA [Data: Relationships (20, 21)].
+
+#### Minoxidil in Combination Therapies
+
+A notable aspect of Minoxidil's use in AA treatment is its combination with other therapeutic agents, such as Compound Glycyrrhizin. This combination is recognized for its potential effectiveness in addressing AA, indicating a collaborative approach in therapeutic strategies. The synergy between Minoxidil and Compound Glycyrrhizin enhances the treatment's efficacy, offering a promising approach for individuals suffering from AA [Data: Relationships (23, 26)].
+
+#### The Impact of Minoxidil on the AA Community
+
+The significance of Minoxidil in the AA treatment community is evident through its widespread discussion across multiple studies and comprehensive reviews in dermatological treatment. Its role extends beyond just a treatment method; it represents hope for many dealing with the unpredictable nature of AA. The National Alopecia Areata Foundation and other professional organizations have shown interest in Minoxidil's effects on AA, further highlighting its importance in the investigational and treatment landscape of this condition [Data: Entities (93); Relationships (52)].
+
+### Conclusion
+
+The relationship between AA and Minoxidil is a testament to the ongoing efforts in the dermatological community to find effective treatments for challenging conditions. Minoxidil's role in stimulating hair growth and its potential in combination therapies offer a beacon of hope for those affected by AA. As research continues, the understanding and application of Minoxidil in AA treatment are likely to evolve, potentially offering more effective and targeted therapeutic strategies.
+
+
+
+GLOBAL 
+
+
+
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-4-turbo-preview', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'cognitive_services_endpoint': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Global Search Response:
+The relationship between Alopecia Areata (AA) and minoxidil is both significant and multifaceted, reflecting a deepening understanding of treatment strategies for this condition. Minoxidil, primarily known for its role in stimulating hair growth, stands at the forefront of therapeutic efforts against AA. Its mechanism of action is twofold: it stimulates hair follicle cell proliferation and enhances microvascular circulation. This dual action not only promotes hair regrowth but also addresses one of the underlying issues in AA by improving nutrient and oxygen delivery to the hair follicles [Data: Reports (2)].
+
+Further advancing the treatment landscape, the combination of topical minoxidil therapy with Compound Glycyrrhizin (CG) has been identified as particularly effective. This synergy leverages minoxidil's hair growth-promoting properties alongside CG's immune-modulating effects, offering a more comprehensive approach to managing AA. The enhanced clinical efficacy observed with this combination therapy underscores the potential benefits of addressing both the symptomatic and immunological aspects of AA [Data: Reports (1)].
+
+The effectiveness of combining CG with topical minoxidil extends beyond just clinical outcomes; it also impacts the biochemical environment associated with AA. This combination has been shown to be more effective in reducing certain cytokine levels that are linked to the progression and severity of AA. Such findings suggest a synergistic effect that could offer a more beneficial treatment option for patients, highlighting the importance of ongoing research into optimizing treatment protocols [Data: Reports (0)].
+
+The significance of these findings is not lost on the Alopecia Areata Research Community, which continues to investigate the efficacy and safety of combining Compound Glycyrrhizin with topical minoxidil. This area of research is crucial, as it not only seeks to refine and improve treatment options but also to better understand the complex interactions at play in AA treatment strategies [Data: Reports (3)].
+
+In summary, the relationship between AA and minoxidil is characterized by a promising therapeutic potential, especially when used in combination with CG. This approach not only targets the symptoms of AA but also addresses underlying immunological factors, offering hope for more effective and comprehensive treatment strategies.
+(venv) wasmi@Wasmis-MacBook-Air graphrag-immuno % 

@@ -1,0 +1,123 @@
+1doi: 10.2169/internalmedicine.4196-24
+Intern Med Advance Publication
+http://internmed.jp
+ʲCASE REPORT ʳ
+Anti-N-methyl-D-aspartate Receptor Encephalitis in Turner
+Syndrome with 45,X/46,X,idic(X)(p11.4) Mosaics
+Jun Kurimoto, Rie Kawakita, Yuta Chi ba, Asahiro Morishita, Tsutomu Masaki,
+Kazushi Deguchi and Hideki Kobara
+Abstract:
+A 46-year-old woman with Turner syndrome (TS) (45,X/46,X,idic(X)(p11.4) mosaic) presented with a fe-
+ver, unresponsiveness, hyperhidrosis, and rigidity appr oximately one month after episodes of confusion and
+suicide attempts, prompting a diagnosis of schizophren ia. Cerebrospinal fluid (CSF) showed mild hypercellu-
+larity with oligoclonal bands. Brain and abdominal ma gnetic resonance imaging showed no abnormalities. Bi-
+zarre upper-extremity movements and spasms followed the trial administration of acyclovir, and autoimmuneencephalitis was suspected. Intensive immunotherapy was initiated, and the symptoms improved. Anti-N-
+methyl-D-aspartate receptor (anti-NMDAR) ence phalitis was diagnosed based on the presence of anti-
+NMDAR antibodies in her spinal fluid. This case re presents a rare presentation of anti-NMDAR encephalitis
+in TS, which is susceptible to autoimmune disease complications.
+Key words: anti-N-methyl-D-aspartate receptor (anti-N MDAR) encephalitis, Turner syndrome, autoimmune
+disorder, mosaicism
+(Intern Med Advance Publication)
+(DOI: 10.2169/internalmedicine.4196-24)
+Introduction
+Turner syndrome (TS) is characterized by short stature,
+pterygium colli, and other physical malformations, as wellas gonadal abnormalities in individuals assigned female atbirth, typically caused by deletion of all or part of an Xchromosome. The karyotypic variation is large, encompass-ing 45,X, and mosaic XX (e.g. 45,X/46,XX) karyotypeswith isochromosomes (either consisting of p or q arms) andeven mosaic compositions with a Y chromosome or frag-ments thereof (1). Autoimmune diseases are among the mostprominent types of TS-associated diseases. Since the risk ofautoimmune diseases in TS is approximately twice as highas that in women of the general population, TS-specific fac-tors have been suggested to play a role in the developmentof autoimmune diseases (2). Under these circumstances, TSis associated with a variety of autoimmune disorders, suchas Hashimoto thyroiditis, celiac disease, type 1 diabetes,alopecia areata, inflammatory bowel disease, juvenile rheu-matoid arthritis, idiopathic thrombocytopenic purpura, pso-riasis, and vitiligo (2). However, there are very few reports
+of patients with TS who develop autoimmune encephali-tis (3, 4).
+We herein report a case of anti-N-methyl-D-aspartate re-
+ceptor (anti-NMDAR) encephalitis that developed in a pa-tient with mosaic TS (45,X/46,X,idic(X)(p11.4)). This rarecase reinforces the fact that a background of TS should in-crease suspicion of autoimmune diseases, including rareautoimmune diseases, when diagnosing such individuals.
+Case Report
+A 46-year-old Japanese woman visited a local clinic for a
+behavioral episode in which she repeatedly called hermother to say, “I’m sorry.” The following day, other abnor-mal behaviors were observed, including an attempt to jumpout of the mother’s car. As a result, she was diagnosed withschizophrenia and admitted to a psychiatric hospital. Treat-ment with olanzapine and blonanserin was then initiated. Onday 17, she developed a fever. On day 20, unresponsiveness,abnormal sweating, and muscle rigidity were observed. The
+Department of Gastroenterology and Neurology , Kagawa University Faculty of Medicine, Japan
+Received: May 27, 2024; Accepted: July 18, 2024; Advance Publication by J-STAGE: September 4, 2024Correspondence to Dr. Kazushi Deguchi, deguchi.kazushi@kagawa-u.ac.jp
+Intern Med Advance Publication DOI: 10.2169/internalmedicine.4196-24
+2Figure ɹ1.ɹMagnetic resonance imaging in the pelvis (T2-weighted imaging). The bilateral ovaries 
+were atrophic (arrows). No obvious pelvic masses were observed.
+patient was tentatively diagnosed with neuroleptic malignant
+syndrome. Antipsychotic drugs were tapered off, and dan-trolene sodium hydrate was administered. However, hersymptoms continued to gradually worsen, and she was re-ferred to our hospital on day 24.
+The patient’s history revealed that she had graduated from
+a junior college and had worked as a childcare worker at aday-care center ever since. In her 20s, she had been diag-nosed with TS due to amenorrhea. Except for amenorrhea,she had no malformations characteristic of TS, such as shortstature or pterygium collis. The karyotype examined on ad-mission was 45,X/46,X,idic(X)(p11.4) mosaic (20 cells ob-served: 9 with 45,X; 11 with 46,X,idic(X)(p11.4)).
+Her consciousness was E4V1M1 on the Glasgow Coma
+Scale (GCS). Horizontal nystagmus was observed in thefrontal gaze. She failed to follow the moving indicators. Hy-pertonus was observed in the extremities. There were no in-voluntary, abnormal limb, or truncal movements. Tendon re-flexes were increased in the bilateral biceps and patellar ten-dons, and plantar responses were extensor on the right side.Drooling, elevated sweating, and severe fluctuations in pulserate were observed.
+Laboratory findings were as follows: white blood cell
+(WBC) 5,640/μL, C-reactive protein (CRP) 1.62 mg/dL, as-partate aminotransferase (AST) 49 U/I, alanine aminotrans-ferase (ALT) 67 U/I, lactate dehydrogenase (LDH) 431 U/I,creatine phosphokinase (CPK) 779 U/I, interleukin-2 recep-tor (IL-2R) 374 U/mL, thyroid-stimulating hormone (TSH)1.30 IU/mL, free T4 1.26 ng/dL, antithyroglobulin antibody167 IU/mL (N: <28 IU/mL), anti-thyroid peroxidase anti-body 9 IU/mL (N: <16 IU/mL). The results for RPR, β-D-
+glucan, and T-SPOT were negative. Serum antibodies (IgM)for herpes simplex virus type 1, cytomegalovirus, andvaricella zoster virus were negative. Cerebrospinal fluid(CSF) showed a cell count of 6/μL (only mononuclear cells)and a protein level of 80 mg/dL. No herpes simplex virustype 1 or varicella zoster virus DNA was detected in theCSF by polymerase chain reaction (PCR). The oligoclonalbands were positive. The IgG index was 0.67. Pelvic mag-netic resonance imaging (MRI ) showed bilateral atrophic
+ovaries consistent with the formation of streak gonads ob-served in TS (5) but no neoplastic lesions (Fig. 1).
+Acyclovir (ACV) 1,500 mg/day was started day 24 be-
+cause of suspected viral meningoencephalitis. Immediatelyafter ACV initiation, lip self-bite and indiscriminate armswinging were observed. Several episodes of tonic convul-sions occurred on days 29 and 30 but were controlled by theadministration of 10 mg of diazepam. The electroencephalo-gram could not be adequately evaluated owing to the largeamount of electromyographic activity introduced by involun-tary arm movements. The bizarre movements and seizuresnot associated with infection suggested autoimmune en-cephalitis; thus, ACV was terminated on day 32, and steroidpulse therapy (methylprednisolone 1.0 g/day for 3 days) wasinitiated. On day 34, the patient developed aspiration pneu-monia. Therefore, immunoglobulin (400 mg/kg/day for 5days) was initiated as an alternative treatment to steroidpulse therapy. On day 44, anti-NMDAR antibody was de-tected in the CSF that had already been submitted (cell-based assay; titer 1x), and she was confirmed to have defi-
+Intern Med Advance Publication DOI: 10.2169/internalmedicine.4196-24
+3Figure ɹ2.ɹClinical course. IVIg: intravenous immunoglobulin, IVMP: intravenous methylpredniso-
+lone, PSL: prednisolone
+Table.ɹClinical Findings of Autoimmune Encephalitis Developed in Turner Syndrome.
+Case Age Sex Karyotype Antibody Clinical symptoms Therapy Outcome
+Gupta et al. 65 F not mentioned NMDAR hallucinations memory disturbances 
+agitationsteroids IVIg improvement
+Quaranta et al 20 F 45,XO/46Xr(x) AMPAR anxiety inner tension confusion 
+mutism bizarre behavior paranoidmemantinevalproic 
+acidimprovement
+Our case 46 F 45X/46,X, 
+idic(X) (p11,4)NMDAR Confusion unresponsiveness 
+muscular tonicityIVMP IVIg improvement
+NMDAR: N-methyl-D-aspartate receptor, AMPAR: α-Amino-3-hydroxy-5-mesoxazole-4-propionic acid receptor, IVMP: intravenous methylprednisolone, 
+IVIg: intravenous immunoglobulin
+nite anti-NMDAR encephalitis based on the criteria of Graus
+et al. (6). After day 52, when the second course of steroidpulse therapy was completed, a fever, impaired conscious-ness, and autonomic symptoms improved. On day 63, shewas started on oral prednisolone 0.5 mg/kg/day. On day107, she was transferred to another hospital for rehabilita-tion. Although a childish demeanor remained, normal con-versation became possible at this point, and her physicalfunction was equivalent to a modified Rankin Scale of 2 (7).Nine months after hospitalization, she returned to her formerdaycare center as a childcare worker without any sequelae.No relapse or higher brain dysfunction was observed(Fig. 2).
+Discussion
+This is a rare case of anti-NMDAR encephalitis in a pa-
+tient with TS. The results of blood, CSF, and imaging stud-ies revealed neither tumors (including ovarian teratomas) norviral infections, which are potential immunologic triggers ofanti-NMDAR encephalitis (8). Therefore, in this case, thedevelopment of anti-NMDAR encephalitis may have in-volved other immunological triggers.
+The susceptibility of TS patients to autoimmune diseases
+has been suggested to be due to X chromosome haploinsuf-ficiency, maternal origin of the X chromosome, overproduc-tion of inflammatory cytoki nes, decreased anti-inflammatorycytokines, or hypogonadism (2). Since numerous genes lo-
+cated on the X chromosome, including a major histocom-patibility complex locus in the long arm, are involved inregulating immune responses and altering immune tolerance,X-linked gene dosage may play a role in the loss of toler-ance (9). In addition, discrete, genetically based disturbancesin both humoral and cellular immune responses (10), thePTPN22 C1858T polymorphism (11), and alterations in X-linked FOXP3 gene polymorphism expression (12) havebeen reported as important factors in autoimmune suscepti-bility in TS.
+A meta-analysis reported thyroid autoimmune diseases,
+including Hashimoto’s thyroiditis, in 38.6% of patients withTS (13). While many autoimmune diseases, including Hashi-moto’s thyroiditis and type 1 diabetes mellitus, show highstandardized incidence ratio s (14), to our knowledge, only
+two other cases of TS-related autoimmune encephalitis havebeen reported (3, 4) (Table). Since anti-NMDAR and anti-AMPAR antibodies cause symptoms similar to schizophre-nia, dementia, and sleep disorders (15), there may be casesin which the development of psychiatric symptoms is not di-agnosed as a complication of autoimmune encephalitis but israther misdiagnosed as a complication of schizophrenia orother psychiatric disorders, as previously reported (4). Fur-ther research is needed to determine whether there is acausal relationship between TS and autoimmune encephali-tis.
+Intern Med Advance Publication DOI: 10.2169/internalmedicine.4196-24
+4Most comorbidities between TS and schizophrenia have a
+mosaic karyotype (45,X/46,XX). This is probably due to theeffect of the gene dosage (16). Interestingly, the only re-ported karyotype of TS cases complicated by autoimmuneencephalitis is mosaicism (45,XO/46Xr(x)) (4), as in ourcase (45X/46,X, idic(X) (p11,4)). Although the risk of de-veloping an autoimmune disease is high in TS regardless ofkaryotype (X monosomy, isoc hromosome Xq, and all oth-
+ers) (14), schizophrenia in TS is largely limited to mosaicswith numerical abnormalities. Therefore, when TS caseswith mosaics with structural abnormalities present with psy-chiatric symptoms, autoimmune encephalitis should be con-sidered rather than schizophrenia. Treatable autoimmune en-cephalitis can be diagnosed by focusing on the neurologicalfeatures and resistance/side effects of antipsychotics withindays to weeks of onset (17).
+In summary, psychological episodes in patients with TS
+may have an autoimmune origin, as TS confers susceptibil-ity to autoimmune diseases. As TS with mosaicism has beenassociated with schizophrenia, the psychiatric symptoms thatdevelop in TS should be carefully differentiated from auto-immune encephalitis caused by anti-NMDAR or anti-AMPAR antibodies, and a CSF analysis of such casesshould be considered early. Compared to schizophrenia,autoimmune encephalitis is relatively curable; thus, it is es-pecially important to note the development of neurologicalfeatures and resistance/side effects of antipsychotics after theonset of psychiatric symptoms.
+The authors state that they have no Conflict of Interest (COI).
+References
+1.Viuff M, Skakkebaek A, Nielsen MM, Chang S, Gravholt CH.
+Epigenetics and genomics in Turner syndrome. Am J Med GenetC Semin Med Genet 181: 68-75, 2019.
+2.De Sanctis V , Khater D. Autoimmune diseases in Turner syn-
+drome: an overview. Acta Biomed 90: 341-344, 2019.
+3.Gupta B, Agarwal M, Sharma R, Saith V . Anesthesia management
+in a case of Turner syndrome with anti-NMDA limbic encephalitisand multiple co-morbidities for repair of fracture femur. Korean JAnesthesiol 71: 330-331, 2018.4.Quaranta G, Maremmani AG, Perugi G. Anti-AMPA-Receptor En-
+cephalitis Presenting as a Rapid-Cycling Bipolar Disorder in aYoung Woman with Turner Syndrome. Case Rep Psychiatry 2015 :
+273192, 2015.
+5.Fukami M. Ovarian dysfunction in women with Turner syndrome.
+Front Endocrinol (Lausanne) 14: 1160258, 2023.
+6.Graus F, Titulaer MJ, Balu R, et al. A clinical approach to diagno-
+sis of autoimmune encephalitis. Lancet Neurol 15: 391-404, 2016.
+7.Farrell B, Godwin J, Richards S, Warlow C. The United Kingdom
+transient ischaemic attack (UK-TIA) aspirin trial: final results. JNeurol Neurosurg Psychiatry 54: 1044-1054, 1991.
+8.Huang Q, Xie Y , Hu Z, Tang X. Anti-N-methyl-D-aspartate recep-
+tor encephalitis: A review of pathogenic mechanisms, treatment,prognosis. Brain Res 1727 : 146549, 2020.
+9.Bianchi I, Lleo A, Gershwin ME, Invernizzi P. The X chromo-
+some and immune associated genes. J Autoimmun 38: J187-J192,
+2012.
+10.El-Mansoury M, Bryman I, Berntorp K, Hanson C, Wilhelmsen L,
+Landin-Wilhelmsen K. Hypothyroidism is common in turner syn-drome: results of a five-year follow-up. J Clin Endocrinol Metab90: 2131-2135, 2005.
+11.Bianco B, Verreschi IT, Oliveira KC, et al. PTPN22 polymorphism
+is related to autoimmune disease risk in patients with Turner syn-drome. Scand J Immunol 72: 256-259, 2010.
+12.Su MA, Stenerson M, Liu W, et al. The role of X-linked FOXP3
+in the autoimmune susceptibility of Turner Syndrome patients.Clin Immunol 131: 139-144, 2009.
+13.Mohamed SOO, Elkhidir IHE, Abuzied AIH, Noureddin A,
+Ibrahim GAA, Mahmoud AAA. Prevalence of autoimmune thyroiddiseases among the Turner Syndrome patients: meta-analysis ofcross sectional studies. BMC Res Notes 11: 842, 2018.
+14.Jørgensen KT, Rostgaard K, Bache I, et al. Autoimmune diseases
+in women with Turner’s syndrome. Arthritis Rheum 62: 658-666,
+2010.
+15.Luo Y , Li J, Jiang F, et al. Autoimmune Encephalitis With Psy-
+chotic Manifestations and Cognitive Impairment Presenting asSchizophrenia: Case Report and Lite rature Review. Front Psychia-
+try13: 827138, 2022.
+16.Jung SY , Park JW, Kim DH, Jun YH, Lee JS, Lee JE. Mosaic
+Turner syndrome associated with schizophrenia. Ann Pediatr En-docrinol Metab 19: 42-44, 2014.
+17.Guasp M, Giné-Servén E, Maudes E, et al. Clinical, Neuroimmu-
+nologic, and CSF Investigations in First Episode Psychosis. Neu-rology 97: e61-e75, 2021.
+The Internal Medicine is an Open Access journal distributed under the Creative
+Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Toview the details of this license, please visi t (https://creativecommons.org/licenses/
+by-nc-nd/4.0/).
+⡥The Japanese Society of Internal Medicine
+Intern Med Advance Publication

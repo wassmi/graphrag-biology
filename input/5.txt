@@ -1,0 +1,601 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ijdt20
+Journal of Dermatological Treatment
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/ijdt20
+Efficacy and safety of compound glycyrrhizin
+combined with topical minoxidil for alopecia
+areata: a systematic review and meta-analysis of
+randomized controlled trials
+Chenqi Guo, Xiangru Gu, Junchen Li, Yingdong Wang, Xiaoya Liu, Guojing
+Yang, Min Zhang & Yu Zhang
+To cite this article:  Chenqi Guo, Xiangru Gu, Junchen Li, Yingdong Wang, Xiaoya Liu,
+Guojing Yang, Min Zhang & Yu Zhang (2024) Efficacy and safety of compound glycyrrhizin
+combined with topical minoxidil for alopecia areata: a systematic review and meta-analysis
+of randomized controlled trials, Journal of Dermatological Treatment, 35:1, 2381766, DOI:
+10.1080/09546634.2024.2381766
+To link to this article:  https://doi.org/10.1080/09546634.2024.2381766
+© 2024 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+View supplementary material 
+Published online: 04 Sep 2024.
+ Submit your article to this journal 
+Article views: 314
+ View related articles 
+View Crossmark data
+RESEARCH ARTICLEJournal of Dermatological treatment
+2024, Vol. 35, no . 1, 2381766
+Efficacy and safety of compound glycyrrhizin combined with topical minoxidil 
+for alopecia areata: a systematic review and meta-analysis of randomized 
+controlled trials
+Chenqi Guoa, Xiangru Gub, Junchen Lia, Yingdong Wanga, Xiaoya Liua, Guojing Yanga, Min Zhangb and  
+Yu Zhangc
+agraduate school, tianjin university of traditional chinese m edicine, tianjin, china; bDepartment of g eriatric, tianjin a cademy of traditional chinese 
+medicine a ffiliated Hospital, tianjin, china; cDepartment of Dermatology, tianjin a cademy of traditional chinese m edicine a ffiliated Hospital, tianjin, 
+china
+ABSTRACT
+Introduction:  Alopecia areata (AA) is a common autoimmune skin disease. Our study aimed to 
+systematically evaluate the efficacy and safety of compound glycyrrhizin (CG) combined with topical 
+minoxidil therapy in treating AA.
+Methods:  We searched the PubMed, EMBASE, Cochrane Library, Web of Science, CNKI, Wanfang, and 
+VIP databases. Randomized controlled trials (RCTs) on CG combined with topical minoxidil therapy 
+compared with topical minoxidil therapy alone for AA were included. The Cochrane Collaborative 
+Network Tool was used to assess the risk of bias. Statistical analysis was completed using RevMan5.3 
+software and Stata 15.0 software. The GRADE system was used to evaluate the quality of evidence for 
+outcomes.
+Result:  11 RCTs and 1189 patients were included. Compared with topical minoxidil therapy alone, CG 
+combined with topical minoxidil therapy was more effective at improving the clinical efficacy (RR = 
+1.36, 95% CI [1.27, 1.45], p < 0.00001). The SALT score (MD = −10.09, 95% CI [−12.89, −7.30], p < 0.00001), 
+serum TNF-α levels (MD = −0.99, 95% CI [−1.19, −0.39], p < 0.00001), serum IL-12 levels (MD = −8.84, 
+95% CI [−11.20, −6.47], p < 0.00001) and serum IFN-γ levels (MD = −7.44, 95% CI [−11.51, −3.37], 
+p = 0.0003) were reduced, and the serum TGF-β1 levels (MD = 2.40, 95% CI [1.24, 3.57], p < 0.0001) were 
+increased. There were no significant differences in reported adverse events, including irritant contact 
+dermatitis (RR = 0.51, 95% CI [0.25, 1.01], p = 0.05), ’ gastrointestinal reactions (RR = 2.47, 95% CI [0.49, 
+12.55], p = 0.28), lower limb edema (RR = 2.60, 95% CI [0.61, 11.06], p = 0.20), facial edema (RR = 2.33, 
+95% CI [0.61, 8.93], p = 0.22), or localized itching (RR = 0.56, 95% CI [0.18, 1.75], p = 0.32), between the 
+two groups.
+Conclusion:  The current evidence indicates that CG combined with topical minoxidil therapy is effective 
+and safe for AA. However, owing to the suboptimal quality of the included studies, more high-quality 
+and large-scale RCTs are needed for comprehensive analysis and further validation.
+Introduction
+Alopecia areata (AA) is a common chronic tissue-specific autoim -
+mune disease that is characterized by patchy hair loss on the scalp 
+[1]. AA affects up to 2% of the general population, irrespective of 
+age, race, or sex [ 2]. It is often considered a cosmetic problem, but 
+it can cause an enormous psychological burden on patients, seri -
+ously affecting their daily life and self-esteem [ 3]. Topical therapy 
+is used as a first-line therapy for alopecia, and topical minoxidil 
+has beed the only FDA-approved over-the-counter drug uesd to 
+treat androgenetic alopecia for over 30 years [ 4]. It has been used 
+to treat many other types of alopecia, including AA, since its 
+approval. It can slow hair loss by prolonging the growth period 
+and promote hair regeneration by increasing hair diameter and density. Notably, the efficacy of topical minoxidil as a monother -
+apy is unsatisfactory. Multiple studies have shown that combina -
+tion therapy can achieve better clinical efficacy [ 5]. Therefore, we 
+aimed to collect the relevant published literature, evaluate the 
+efficacy of combination therapy on AA, and provide a new alter -
+native therapy for AA.
+The compound glycyrrhizin (CG) has anti-inflammatory, 
+anti-allergic and immunomodulatory effects, and can exert 
+glucocorticoid-like effects safely [ 6]. CG enhances the activity of 
+lymphocytes by promoting the activation of NK cells and T cells, 
+thereby inhibiting the progression of AA, inhibiting phospholipase 
+activity, and exerting antimicrobial effects to promote new hair 
+growth [ 7]. In recent years, clinical research on the combination of 
+CG and topical minoxidil for treating AA has gradually increased, 
+© 2024 the a uthor(s). Published with license by taylor & f rancis group, llc.CONTACT min Zhang  zhangmin5746@163.com   Department of g eriatric, tianjin a cademy of traditional chinese m edicine a ffiliated Hospital no.354, Beima 
+road, tianjin 300120, china; Yu Zhang  niuniuzy7375@aliyun.com   Department of Dermatology, tianjin a cademy of traditional chinese m edicine a ffiliated 
+Hospital, no.354, Beima r oad, tianjin 300120, china.
+ Supplemental data for this article can be accessed online at https://doi.org/10.1080/09546634.2024.2381766 .https://doi.org/10.1080/09546634.2024.2381766
+this is an o pen a ccess article distributed under the terms of the c reative c ommons a ttribution-nonc ommercial license ( http://creativecommons.org/licenses/by-nc/4.0/ ), which permits unre -
+stricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. the terms on which this article has been published allow the posting 
+of the a ccepted m anuscript in a repository by the author(s) or with their consent.ARTICLE HISTORY
+Received 14 April 2024
+Accepted 20 June 2024
+KEYWORDS
+Alopecia areata; compound 
+glycyrrhizin; minoxidil; 
+randomized controlled trials; 
+meta-analysis2 C. GUO ET AL.
+but the relative effectiveness and safety of this combination ther -
+apy have not been systematically analyzed. This study conducted 
+a systematic evaluation and meta-analysis based on relevant RCTs, 
+aiming to comprehensively evaluate the efficacy and safety of CG 
+combined with topical minoxidil therapy for AA and provide a 
+optimized treatment option for AA.
+Methods
+This study complied with the Preferred Reporting Items for 
+Systematic Review and Meta-analyses Statement (PRISMA) [ 8]. We 
+registered the protocol in the PROSPERO (ID: CRD42024528846).
+Search strategy
+A systematic literature search was conducted in 7 databases from 
+their inception to March 28, 2024: PubMed, EMBASE, Cochrane 
+Library, Web of Science, China National Knowledge Infrastructure 
+(CNKI), Wanfang, and VIP databases. The following terms were 
+used for the search: alopecia areata, alopecia, compound glycyr -
+rhizin, glycyrrhizin, minoxidil. The search strategy was slightly 
+modified due to corresponding database. The details can be found 
+in Supplementary Table 1 . In addition, we also searched the list of 
+references included in the studies to further identify eligible papers.
+Inclusion and exclusion criteria
+Randomized controlled trials (RCTs). (2) The recognized diagnostic 
+criteria had to be reported in the included studies, with no restric -
+tions on the clinical types of AA, age, race, and gender of patients. 
+(3) The experimental intervention applied CG combined with topi -
+cal minoxidil therapy. The control group received the same topical 
+minoxidil as the experimental group. (4) The main outcome mea -
+sures were Severity of Alopecia Tool (SALT) score [ 9, 10] and clini -
+cal efficacy. The clinical efficacy with specific definitions at home 
+and abroad were all accepted [ 11, 12], which can divide into clin -
+ical cure, marked efficacy, effective and no efficacy. Clinical cure is 
+defined by all new hair grows out, densely distributed, with hair 
+thickness and color similar to normal hair. Marked efficacy is 
+defined by new hair grows by 50% to 99%, with a significant 
+amount of velvety hair turning into coarse hair. We define the 
+number of patients with clinical efficacy = number of "clinically 
+cured" patients + number of "marked efficacy" patients. Secondary 
+outcomes were serum TNF-α, TGF-β1, IL-12, IFN-γ levels and 
+adverse reactions.
+Exclusion criteria were as follows: (1) Studies about AA but 
+mixed with other illnesses. (2) Non-RCTs, such as reviews, case 
+reports and conference abstracts. (3) Unable to obtain full-text or 
+data or duplicate published research.
+Data extraction
+Two researchers (Gu XR and Li JC) extracted the following data 
+separately for all studies meeting the inclusion criteria inde -
+pendently: study characteristics (including first author, country and 
+year of publication), baseline data (including age, gender, sample 
+size and disease course), intervention measures (dose and fre -
+quency of CG, usage of minoxidil) and outcome data. All the 
+extracted data were cross-checked. Any disagreements arising during this process were discussed and addressed with the third 
+researcher (Guo CQ).
+Assessment of risk of bias
+Two researchers (Wang YD and Yang GJ) used the quality evalua -
+tion criteria provided in the Cochrane Intervention System 
+Evaluation Manual to evaluate the basic risk of the included liter -
+ature [ 13]. Seven evaluation items were evaluated: random 
+sequence generation, allocation concealment, blinding of investi -
+gators and/or subjects, blinding of study results evaluators, integ -
+rity of results data, selective reporting, and other bias. Each items 
+was classified as having a low, unclear or high risk of bias. Any 
+agreement was resolved by the third researcher (Guo CQ).
+GRADE evaluation
+The GRADE system is used to evaluate the quality of evidence for 
+outcomes [ 14]. The degradation factors mainly include five aspects: 
+risk of bias, inconsistency, indirectness, imprecision, and other con -
+siderations. The quality definition is classified as extremely low 
+quality evidence (+), low quality evidence (++), medium quality 
+evidence (+++), and high quality evidence (++++).
+Statistical analysis
+RevMan 5.3 software was used for data analysis. The dichotomous 
+outcomes were expressed as risk ratio (RR), the continuous out -
+comes were analyzed using the mean difference (MD), and each 
+effect size was expressed as a 95% confidence interval (CI). 
+Heterogeneity was evaluated using the χ2 test and I2 test. When 
+p > 0.1 and I2 < 50%, a fixed-effects model was selected for the 
+meta-analysis. Otherwise, a fixed-effects model should be adopted. 
+Subgroup analyses were used based on study design if possible. In 
+addition, STATA 15.0 was used for sensitivity analysis to explore 
+potential sources of heterogeneity. A funnel plot for evaluating 
+publication bias was employed if the number of included studies 
+was ≥ 10.
+Result
+Literature retrieval
+A total of 196 studies were retrieved from the 7 electronic data -
+bases, and 101 duplicates were removed. Then, after reading the 
+titles and abstracts of the remaining 95 studies, we further 
+excluded an additional 67 irrelevant studies. Next, after reading 
+the full text of the remaining 28 studies, 17 studies were further 
+excluded. Finally, 11 studies were included in this work [ 15–25 ]. 
+(Figure 1 )
+Characteristics of the included studies
+11 RCTs included in this work were published between 2009 and 
+2021, all of which were conducted in China. A total of 1189 par -
+ticipants were involved ( n = 603 and n = 586 from the experimental 
+group and control groups, separately). In each study, the dosage 
+of CG was 3 times daily applications with 50–75 mg per applica -
+tion. For the concentration of minoxidil, 9 studies used 5% and the JOURNAL  OF DERMATOLOGICAL  TREATMENT 3
+remained 2 studies were 2%. The treatment course is 2 or 3 months. 
+The characteristics of the included studies are shown in Table 1 .
+Risk of bias
+Three studies [ 15, 17, 19] reported the use of random number 
+tables, one study [ 21] reported the order of entering the hospital, 
+and the other studies did not report their detailed randomization 
+generation approach. None of the included studies reported allo -
+cation concealment, blinding of participants and personnel or 
+blinding of outcome assessments. Other potential biases men -
+tioned in included studies were unclear due to limited informa -
+tion. The results of the bias risk evaluation are presented in 
+Figure 2 .
+Clinical efficacy
+Eleven studies [ 15–25 ] involving 1189 patients reported clinical 
+efficacy. A fixed-effects model was chosen in line with heteroge -
+neous results ( I2=0%, p = 0.99). According to the results of a 
+meta-analysis, the combination of CG and topical minoxidil ther -
+apy could improve clinical efficacy compared with that of topical 
+minoxidil therapy alone (RR = 1.36, 95% CI [1.27, 1.45], p < 0.00001). 
+A subgroup analysis was performed for the treatment course. The clinical efficacy in the CG with a course of 2 months plus topical 
+minoxidil group was better than that in the topical minoxidil alone 
+group (RR = 1.46, 95% CI [1.21, 1.76], p < 0.0001). The similar result 
+can be observed at a course of 3 months (RR = 1.34, 95% CI [1.25, 
+1.43], p < 0.00001) ( Figure 3 ).
+SAL T score
+Five studies [ 15, 17, 19, 21, 22] involving 585 participants reported 
+SALT scores. A random-effects model was chosen in line with het -
+erogeneous results ( I2=97%, p < 0.0001). According to the results of 
+a meta-analysis, compared with topical minoxidil therapy alone, 
+CG combined with topical minoxidil therapy significantly reduced 
+the SALT score (MD = −10.09, 95% CI [−12.89, −7.30], p < 0.00001) 
+(Figure 4 ).
+Serum TNF-α levels
+Two studies [ 15, 19] involving 230 participants reported serum TNF-α 
+levels. A fixed-effects model was chosen in line with heterogeneous 
+results ( I2=0%, p = 0.70). According to the results of a meta-analysis, 
+compared with topical minoxidil therapy alone, CG combined with 
+topical minoxidil therapy significantly reduced the serum TNF-α levels 
+(MD = −0.99, 95% CI [−1.19, −0.39], p < 0.00001) ( Figure 5 ).
+Figure 1.  Study selection process.4 C. GUO ET AL.
+Serum TGF-β1 levels
+Three studies [ 15, 16, 19] involving 319 participants reported 
+serum TGF-β1 levels. A fixed-effects model was chosen in line with 
+heterogeneous results ( I2=0%, p = 0.88). According to the results of 
+a meta-analysis, compared with topical minoxidil therapy alone, 
+CG combined with topical minoxidil therapy significantly increased 
+the serum TGF-β1 levels (MD = 2.40, 95% CI [1.24, 3.57], p < 0.0001) 
+(Figure 6 ).
+Serum IL-12 levels
+Two studies [ 15, 19] involving 230 participants reported serum IL-12 
+levels. A fixed-effects model was chosen in line with heterogeneous 
+results ( I2=0%, p = 0.63). According to the results of a meta-analysis, 
+compared with topical minoxidil therapy alone, CG combined with 
+topical minoxidil therapy significantly reduced the serum IL-12 levels 
+(MD = −8.84, 95% CI [−11.20, −6.47], p < 0.00001) ( Figure 7 ).
+Serum IFN-γ levels
+Two studies [ 16, 21] involving 209 participants reported serum 
+IFN-γ levels. A random-effects model was chosen in line with het -
+erogeneous results ( I2=86%, p = 0.007). According to the results of 
+a meta-analysis, compared with topical minoxidil therapy alone, 
+CG combined with topical minoxidil therapy significantly reduced 
+the serum IFN-γ levels (MD = −7.44, 95% CI [−11.51, −3.37], 
+p = 0.0003) ( Figure 8 ).Adverse events
+Nine studies [ 16–21 , 23–25 ] reported adverse events. According to 
+the results of our meta-analysis, there was no signifcant difference 
+in the incidence of irritant contact dermatitis (RR = 0.51, 95% CI 
+[0.25, 1.01], p = 0.05), gastrointestinal reactions (RR = 2.47, 95% CI 
+[0.49, 12.55], p = 0.28), lower limb edema (RR = 2.60, 95% CI [0.61, 
+11.06], p = 0.20), facial edema (RR = 2.33, 95% CI [0.61, 8.93], 
+p = 0.22), and localized itching (RR = 0.56, 95% CI [0.18, 1.75], 
+p = 0.32) between the two groups. Other adverse reactions included 
+dizziness [ 16] and mild increase in blood pressure [ 23]. All of these 
+adverse reactions in the two groups can be resolved sponta -
+neously and did not affect subsequent treatment ( Figure 9 ).
+Sensitivity analysis
+The sensitivity analyses were performed using the method of 
+omitting individual studies one by one to evaluate the influence 
+on pooled results due to the heterogeneity of the meta-analyses 
+on the clinical efficacy, SALT score, serum TNF-α, TGF-β1, IL-12 and 
+IFN-γ levels. The analyses indicated there were no significant influ -
+ences on any outcome, suggesting that the sensitivity was low 
+and the results were robust ( Figure 10 ).
+Assessment of publication bias
+The funnel plot analysis of clinical effective rate showed asymme -
+try, which indicated potential publication bias ( Figure 11 ).Table 1.  included studies characteristics.
+first a uthor 
+Year countrySample 
+size (e/c ) m:fmean age or age range 
+(e/c ) Disease course (e/c ) interventiontreatment 
+course outcomes
+Du 2021 [ 25] china 60/60 71:49 45.71 ± 3.69/44.93 ± 3.72 6.69 ± 1.28m/6.38 ± 1.43m 5% topical minoxidil 
+twice a day + cg 
+50 mg tiD3m①②③④⑤
+Yang 2021 [ 26]china 45/44 57:32 33.15 ± 10.65/32.51 ± 9.87 8.54 ± 2.63m/8.61 ± 2.87m 5% topical minoxidil 
+twice a day + cg 
+25–75mg tiD3m①④⑥⑦
+li 2020 [ 27] china 75/74 81:68 40.34 ± 10.28/39.18 ± 9.67 9.36 ± 4.17m/9.87 ± 4.03m 5% topical minoxidil 
+twice a day + cg 
+50 mg tiD3m①②⑦
+Wang 2016 [ 28]china 60/60 83:27 19–57/19–59 4–41m/3–39m 5% topical minoxidil 
+twice a day + cg 
+50 mg tiD2m①⑦
+chen 2015 [ 29]china 55/55 60:50 44.5 ± 15.4/47.5 ± 16.7 6.5 ± 2.5m/6.2 ± 2.0m 5% topical minoxidil 
+twice a day + cg 
+75 mg tiD3m①②③④⑤⑦
+Yue 2015 [ 30] china 55/55 62:48 nr nr 2% topical minoxidil 
+twice a day + cg 
+25–50mg tiD3m①⑦
+fu 2013 [ 31] china 60/60 56:64 41.5 ± 13.0/41.9 ± 13.5 5.2 ± 2.0m/5.5 ± 2.6m 5% topical minoxidil 
+twice a day + cg 
+50 mg tiD3m①②⑥⑦
+cao 2012 [ 32] china 42/44 52:34 12–66/15–64 25d–13y/21d–11.8y 5% topical minoxidil 
+twice a day + cg 
+75 mg tiD3m①②
+Yu 2012 [ 33] china 53/51 59:45 nr nr 5% topical minoxidil 
+twice a day + cg 
+75 mg tiD3m①⑦
+Wu 2011 [ 34] china 50/50 52:48 nr nr 5% topical minoxidil 
+twice a day + cg 
+25–75mg tiD2m①⑦
+li 2009 [ 27] china 48/33 50:31 16–60/17–58 6d–1y/7d–1y 5% topical minoxidil 
+twice a day + cg 
+50 mg tiD3m①⑦
+abbreviations: cg: compound glycyrrhizin; m: male; f : female; e: experimental group; c: control group; d: day; w: week; m: month; y:year; nr: not reported;  
+tiD: 3 times daily; ①: clinical efficacy; ②: Salt ; ③: serum tnf-α levels; ④: serum tgf-β1 levels; ⑤: serum il -12 levels; ⑥: serum ifn-γ levels; ⑦: adverse reactions.JOURNAL  OF DERMATOLOGICAL  TREATMENT 5
+Level of evidence
+The evidence of clinical efficacy, serum TNF-α, TGF-β1 and IL-12 levels 
+were identified as “moderate-quality” , meanwhile, the equality of evi -
+dence for SALT score and serum IFN-γ levels were identified as 
+“low-quality” . In conclusion, all of them were moderate or weak rec -
+ommendations. The details can be found in Supplementary Table 2 .
+Discussion
+AA is characterized by systemic dysregulation of Th1 (TNF-α, IL-12 
+and IFN-γ), Th2, and Th17 (TGF-β1) cytokines [ 26]. Studies have 
+shown that patients with AA with a SALT score of ≥ 25% have 
+higher serum TNF-α levels than those with a SALT score of < 25%, 
+and the serum TNF-α levels are positively correlated with the 
+severity of AA [ 27, 28]. Compared with healthy control individuals, 
+patients with AA have greater expression of IL-12 mRNA in peripheral blood monocytes, and serum IL-12 levels are positively 
+correlated with the severity and duration of hair loss [ 29, 30]. 
+IFN-γ- induced immune collapse of hair follicles can cause the 
+occurrence of AA [ 31]. A study showed an increased serum levels 
+of IFN-γ in patients with active AA in comparison with patients 
+with stable AA [ 32]. TGF-β1 is a pleiotropic cytokine that can reg -
+ulate the growth cycle of hair follicles and the degradation period 
+of hair growth and also activate hair follicle stem cells to stimulate 
+hair growth [ 33]. The serum levels of TGF-β1 in patients with AA 
+are lower than those in healthy people, especially in patients with 
+active AA [ 27, 34].
+CG is derived from the traditional Chinese medicine licorice, and as 
+a complementary and alternative TCM treatment method, it has been 
+widely used to treat various skin diseases closely related to autoim -
+mune reactions [ 35]. CG can inhibit the activity of CD4+ cells, CD8+ 
+cells and related cytokines and enhance the differentiation of extrathy -
+mic T cells. Thus, it inhibits the progression of AA and promotes hair 
+regeneration [ 36]. Our study found that adding CG to topical minoxidil 
+can reduce the levels of multiple Th1 cytokines (TNF-α, IL-12 and 
+IFN-γ). Meanwhile, several studies have shown that CG can increase 
+the levels of IL-10 in patients with AA [ 16, 37]. And IL-10 is mainly 
+produced by Th2 cells, which can inhibit the production of 
+pro-inflammatory cytokines and inhibit the immune response of Th1 
+type cells. These indicated that CG may treat AA by regulating the bal -
+ance of Th1/Th2 cells.
+Topical minoxidil can promote the proliferation and differentiation 
+of hair follicle epithelial cells, improve the microvascular circulation 
+around hair follicles, and activate potassium channels on peripheral 
+arterial smooth muscles, inducing cell proliferation. Moreover, it can 
+also increase vascular endothelial growth factor in dermal cells in a 
+dose-dependent manner, stimulate the production of prostaglandin 
+E2, and thus prolong the anagen phase [ 38]. The combination of oral 
+CG and topical minoxidil is suggested to compensate for the short -
+comings of topical application in overall immune regulation, 
+anti-inflammatory and anti-allergic effects, balances helper T-cell func -
+tion, suppresses autoimmune reactions, reduces local inflammatory 
+reactions in AA, and improves clinical efficacy.
+Many research have shown that the evaluation of trichoscopic 
+can help diagnose AA and predict the course of the disease. For 
+example, black dots, broken hairs, and exclamation mark hairs may 
+be related to the activity of AA, while yellow dots may be posi -
+tively correlated with the severity of AA. Short vellus hairs are 
+adversely correlated with the severity or activity of the AA [ 39, 40]. 
+Notably, one study we included reported the trichoscopic findings, 
+which revealed that after 12 weeks and 6 months of combined 
+treatment with CG and topical minoxidil, the number of black 
+dots, broken hairs, exclamation mark hairs, and empty follicular 
+openings in AA area significantly decreased, while the number of 
+short vellus hairs increased [ 16]. Also, it indicated that this combi -
+nation therapy can improve hair and hair follicle density, as well as 
+reduced recurrence rates.
+In this study, we analyzed 11 RCTs and systematically evaluated 
+the efficacy and safety of CG combined with topical minoxidil for 
+the treatment of AA. The results suggested that CG combined with 
+topical minoxidil therapy increased clinical efficacy relative to that 
+of topical minoxidil therapy alone. Moreover, it decreased the SALT 
+score and serum TNF-α, IL-12 and IFN-γ levels and increased the 
+serum TGF-β1 levels. In terms of safety, there was no significant 
+difference in adverse reactions, including irritant contact dermati -
+tis, gastrointestinal reactions, lower limb edema, facial edema or 
+localized itching, between the two groups. These findings indicate 
+that combination therapy does not increase the occurrence of 
+adverse reactions.
+Figure 2.  Summary of the risks of bias.6 C. GUO ET AL.
+Figure 3.  forest plot for clinical efficacy.
+Figure 4.  forest plot for Salt score.
+Figure 5.  forest plot for serum tnf-α levels.
+Figure 6.  forest plot for serum tgf-β1 levels.
+Figure 7.  forest plot for serum il -12 levels.JOURNAL  OF DERMATOLOGICAL  TREATMENT 7
+Figure 8.  forest Plot for serum ifn-γ levels.
+Figure 9.  forest plot for adverse events.
+Limitations
+The studies analyzed were limited by: First, several factors 
+seemed to have an impact on the degree of treatment response, 
+including patient characteristics and demographics, disease 
+characteristics (such as age of onset, severity, disease course, AA subtype, etc) and prior treatments. Due to the limited infor -
+mation included we reviewed, we were unable to analyze all 
+the above-mentioned factors. Second, the samples sizes of the 
+studies were small. All included studies were conducted in 
+China, and all participants were Chinese, which may cause 
+potential regional or racial differences. Third, only 2–3 studies 8 C. GUO ET AL.
+reported outcome indicators for the serum TNF-α, IL-12, IFN-γ 
+and TGF-β1, reducing the quality of evidence of the results. 
+Fourth, according to the GRADE evaluation system, the quality 
+of evidence in outcome indicators was moderate or low. 
+Consequently, more high-quality studies are needed to verify 
+the effectiveness of CG combined with topical minoxidil ther -
+apy for AA treatment.
+Conclusion
+CG combined with topical minoxidil therapy may be safe and 
+effective but due to the poor quality of evidence provided in the 
+studies we reviewed, more robust studies are needed before this 
+treatment can be recommended.Ethical statement
+This work is based exclusively on published literature and did not 
+require ethics approval.
+Author contributions
+Chenqi Guo designed the study. Xiangru Gu, Junchen Li and 
+Yingdong Wang collected and analyzed the data. Xiaoya Liu and 
+Guojing Yang involved in writing and revision of manuscript. Min 
+Zhang and Yu Zhang supervised the study. All authors contributed 
+to the article and approved the submitted version.
+Disclosure statement
+The authors report there are no competing interests to declare.
+Funding
+This work was supported by the Research project of Tianjin 
+Academy of Traditional Chinese Medicine Affiliated Hospital (grant 
+number 2022010).
+Data availability statement
+The original contributions presented in the study are included in 
+the article/ Supplementary Material , further inquiries can be 
+directed to the corresponding authors.
+References
+ 1. Gaurav A, Eang B, Mostaghimi A. Alopecia Areata. JAMA 
+Dermatol. 2024;160(3):372. doi: 10.1001/jamadermatol.2023.4661 .
+Figure 10.  the results of sensitivity analysis. (a)clinical efficacy, (b)Salt score, (c)serum tnf-α levels, (d)serum tgf-β1 levels, (e)serum il-12 levels, (f)serum ifn-γ 
+levels.
+Figure 11.  funnel plot of clinical effective rate.JOURNAL  OF DERMATOLOGICAL  TREATMENT 9
+ 2. Kinoshita-Ise M, Fukuyama M, Ohyama M. Recent advances in 
+understanding of the etiopathogenesis, diagnosis, and man -
+agement of hair loss diseases. J Clin Med. 2023;12(9):3259. 
+doi: 10.3390/jcm12093259 .
+ 3. Ghalamkarpour F, Araghi F, Tabari M, et  al. Comparing quality 
+of life, anxiety, depression, sleep disturbance, and associated 
+factors in vitiligo and alopecia areata patients. J Cosmet 
+Dermatol. 2024;23(5):1808–1815. doi: 10.1111/jocd.16158 .
+ 4. Gupta AK, Talukder M, Venkataraman M, et  al. Minoxidil: a 
+comprehensive review. J Dermatolog Treat. 2022;33(4):1896–
+1906. doi: 10.1080/09546634.2021.1945527 .
+ 5. Nestor MS, Ablon G, Gade A, et  al. Treatment options for an -
+drogenetic alopecia: efficacy, side effects, compliance, finan -
+cial considerations, and ethics. J Cosmet Dermatol. 
+2021;20(12):3759–3781. doi: 10.1111/jocd.14537 .
+ 6. Chen S, Cao W, Xiao X, et  al. A systematic review and 
+meta-analysis of efficacy and safety of compound glycyrrhizin 
+combined with second-generation non-sedated antihistamine 
+for the treatment of chronic urticaria. J Dermatolog Treat. 
+2024;35(1):2299597. doi: 10.1080/09546634.2023.2299597 .
+ 7. Yang DQ, You LP , Song PH, et  al. A randomized controlled 
+trial comparing total glucosides of paeony capsule and com -
+pound glycyrrhizin tablet for alopecia areata. Chin J Integr 
+Med. 2012;18(8):621–625. doi: 10.1007/s11655-012-1173-0 .
+ 8. Page MJ, Mckenzie JE, Bossuyt PM, et  al. The PRISMA2020 
+statement: an updated guideline for reporting systematic re -
+views. BMJ. 2021;372:n71. doi: 10.1136/bmj.n71 .
+ 9. Olsen EA, Hordinsky MK, Price VH, et  al. Alopecia areata in -
+vestigational assessment guidelines–Part II. National Alopecia 
+Areata Foundation. J Am Acad Dermatol. 2004;51(3):440–447. 
+doi: 10.1016/j.jaad.2003.09.032 .
+ 10. Olsen EA, Canfield D. SALT II: a new take on the Severity of 
+Alopecia Tool (SALT) for determining percentage scalp hair 
+loss. J Am Acad Dermatol. 2016;75(6):1268–1270. doi: 10.1016/  
+j.jaad.2016.08.042 .
+ 11. Weiss VC, West DP , Fu TS, et  al. Alopecia areata treated with 
+topical minoxidil. Arch Dermatol. 1984;120(4):457–463. doi: 
+10.1001/archderm.1984.01650400039010 .
+ 12. Society of Dermatology and Venereal Diseases, Chinese 
+Society of Integrated Traditional and Wester. Diagnostic and 
+therapeutic criteria of integrated traditional Chinese and 
+western medicine for fve skin diseases (draft). Chin J Integr 
+Tradit West Med. 1992;01:56–58.
+ 13. Sterne JAC, Savović J, Page MJ, et  al. RoB 2: a revised tool for 
+assessing risk of bias in randomised trials. BMJ. 2019;366:l4898. 
+doi: 10.1136/bmj.l4898 .
+ 14. Guyatt G, Oxman AD, Akl EA, et  al. GRADE guidelines: 1. 
+Introduction-GRADE evidence profiles and summary of findings 
+tables. J Clin Epidemiol. 2011;64(4):383–394. doi: 10.1016/j.jcline -
+pi.2010.04.026 .
+ 15. Du HX, Huang W, Que SH, et  al. Observation on the thera -
+peutic effect of compound glycyrrhizin combined with mi -
+noxidil tincture in the treatment of alopecia areata. J Henan 
+Med Coll. 2021;33(3):314–316.
+ 16. Yang JY, Yang M, Chen ZH, et  al. Effect of compound glycyrrhizin 
+tablets combined with minoxidil tincture in the treatment of al -
+opecia areata and the influence on serum levels of anti-TPOAb 
+and Anti-TGAb. Chin J Aesth Med. 2021;30(12):93–97.
+ 17. Li ZX. Analysis of the therapeutic effect of compound glycyr -
+rhizin combined with minoxidil tincture in the treatment of 
+alopecia areata patients. PracClinJIntegr Tradit West Med. 
+2020;20(4):114–116. 18. Wang LL. Clinical efficacy observation of 5% minoxidil solution 
+combined with compound glycyrrhizin in the treatment of alo -
+pecia areata. Chin J Mod Drug Appl. 2016;10(4):174–175.
+ 19. Chen YH. The effect evaluation of minoxidil tincture of joint 
+compound glycyrrhizic on alopecia areata and the influence 
+on serum TNF-α, TGF-β1 and of IL–12. J Clin Pathol Res. 
+2015;35(6):1038–1042.
+ 20. Yue Z, Jiang CJ. Observation on the therapeutic effect of 
+compound glycyrrhizin combined with 2% minoxidil solution 
+in the treatment of alopecia areata in school-age children. J 
+Qiqihar Univ Med. 2015;36(27):4104–4105.
+ 21. Fu Y, Wei YH, Zhang HR, et  al. Curative effect of treating alo -
+pecia areata by compound glycyrrhizin combined with local -
+ly applied minoxidil and the influence on serum IFN-γ and 
+IL-10. Progr Modern Biomed. 2013;13(28):5498–5501.
+ 22. Cao HY. Observation on the therapeutic effect of compound gly -
+cyrrhizin combined with minoxidil tincture in the treatment of 
+alopecia areata. Guide China Med. 2012;10(10):484–485.
+ 23. Yu Y, Yuan B. Observation on the therapeutic effect of com -
+pound glycyrrhizin tablets combined with minoxidil solution 
+in the treatment of alopecia areata. Chin J Aesth Med. 
+2012;21(10):1784–1785.
+ 24. Wu GG. Observation on the therapeutic effect of compound 
+glycyrrhizin combined with 5% minoxidil solution in the 
+treatment of 50 cases of alopecia areata. Jiangxi Med J. 
+2011;46(10):936–937.
+ 25. Li XJ, Wang XX, Liu DF, et  al. 48 cases of alopecia areata treated 
+with compound glycyrrhizin tablets combined with topical 5% 
+minoxidil solution. Chin J NewDrug. 2009;18(23):2236–2237.
+ 26. Waśkiel-Burnat A, Osińska M, Salińska A, et  al. The role of se -
+rum Th1, Th2, and Th17 cytokines in patients with alopecia 
+areata: clinical implications. Cells. 2021;10(12):3397. doi: 
+10.3390/cells10123397 .
+ 27. Alzolibani AA, Rasheed Z, Bin Saif G, et  al. Altered expression 
+of intracellular Toll-like receptors in peripheral blood mono -
+nuclear cells from patients with alopecia areata. BBA Clin. 
+2016;5:134–142. doi: 10.1016/j.bbacli.2016.03.006 .
+ 28. Omar SI, Hamza AM, Eldabah N, et  al. IFN-α and TNF-α serum 
+levels and their association with disease severity in Egyptian 
+children and adults with alopecia areata. Int J Dermatol. 
+2021;60(11):1397–1404. doi: 10.1111/ijd.15658 .
+ 29. Zöller M, McElwee KJ, Vitacolonna M, et  al. The progressive state, 
+in contrast to the stable or regressive state of alopecia areata, is 
+reflected in peripheral blood mononuclear cells. Exp Dermatol. 
+2004;13(7):435–444. doi: 10.1111/j.0906-6705.2004.00179.x .
+ 30. Attia EA, El Shennawy D, Sefin A. Serum interleukin-4 and total 
+immunoglobulin E in nonatopic alopecia areata patients and 
+HLA-DRB1 typing. Dermatol Res Pract. 2010;2010(1):503587. doi: 
+10.1155/2010/503587 .
+ 31. Van Acker MM, Schwartz RR, Andrews K, et  al. 
+Inheritance-specific dysregulation of Th1- and Th17-associated 
+cytokines in alopecia areata. Biomolecules. 2023;13(9):1285. 
+doi: 10.3390/biom13091285 .
+ 32. Ma X, Chen S, Jin W, et  al. Th1/Th2 PB balance and CD200 
+expression of patients with active severe alopecia areata. Exp 
+Ther Med. 2017;13(6):2883–2887. doi: 10.3892/etm.2017.4312 .
+ 33. Luk NM, Chiu LS, Lee KC, et  al. Efficacy and safety of di -
+phenylcyclopropenone among Chinese patients with steroid 
+resistant and extensive alopecia areata. J Eur Acad Dermatol 
+Venereol. 2013;27(3):e400–e405. doi: 10.1111/jdv.12009 .
+ 34. Tembhre MK, Sharma VK. T-helper and regulatory T-cell cyto -
+kines in the peripheral blood of patients with active alopecia 10 C. GUO ET AL.
+areata. Br J Dermatol. 2013;169(3):543–548. doi: 10.1111/  
+bjd.12396 .
+ 35. Xu W, Li Y, Ju M, et al. A multicenter, randomized, double-blind, 
+placebo-controlled study of compound glycyrrhizin capsules 
+combined with a topical corticosteroid in adults with chronic 
+eczema. Evid Based Complement Alternat Med. 2020;2020:  
+6127327–6127329. doi: 10.1155/2020/6127327 .
+ 36. Wen Y, Tang Y, Li M, et  al. Efficiency and safety of deslorata -
+dine in combination with compound glycyrrhizin in the treat -
+ment of chronic urticaria: a meta-analysis and systematic re -
+view of randomised controlled trials. Pharm Biol. 
+2021;59(1):1276–1285. doi: 10.1080/13880209.2021.1973039 .
+ 37. Zhang JT, Li HP , Li J, et  al. Clinical observation of compound 
+Kaliziran tincture combined with compound glycyrrhizin tab -lets in the treatment of 61 cases of alopecia areata in chil -
+dren. Chin J Derm Venereol. 2014;28(11):1205–1206.
+ 38. Devjani S, Ezemma O, Kelley KJ, et  al. Androgenetic alopecia: 
+therapy update. Drugs. 2023;83(8):701–715. doi: 10.1007/
+s40265-023-01880-x .
+ 39. Kazan D. Evaluating the effect of the demographic, tricho -
+scopic and laboratory characteristics on the recurrence of 
+alopecia areata. Dermatol Pract Concept. 2024;14(1):e2024068. 
+doi: 10.5826/dpc.1401a68 .
+ 40. Agamia N, Apalla Z, El Achy S, et  al. Interferon-gamma serum 
+level and immunohistochemical expression of CD8 cells in 
+tissue biopsies in patients with alopecia areata in correlation 
+with trichoscopic findings. Dermatol Ther. 2020;33(4):e13718. 
+doi: 10.1111/dth.13718 .
